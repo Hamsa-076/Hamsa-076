@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/Linkedin-007B5?style=for-the-badge&logo=linkedin&logoColor=White)
+![Static Badge](https://img.shields.io/badge/Linkedin-007B5?style=for-the-badge&logo=linkedin&logoColor=White)]( 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Python+Developer;computer+science+student)](https://git.io/typing-svg)
